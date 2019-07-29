@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj",
+        "projectName": "ASC.Web",
+        "projectPath": "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj",
+        "packagesPath": "C:\\Users\\Steve Newman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Steve Newman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
