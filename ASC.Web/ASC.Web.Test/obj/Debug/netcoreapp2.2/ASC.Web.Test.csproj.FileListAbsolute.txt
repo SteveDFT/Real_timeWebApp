@@ -1,0 +1,15 @@
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\bin\Debug\netcoreapp2.2\ASC.Web.Test.deps.json
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\bin\Debug\netcoreapp2.2\ASC.Web.Test.runtimeconfig.json
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\bin\Debug\netcoreapp2.2\ASC.Web.Test.runtimeconfig.dev.json
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\bin\Debug\netcoreapp2.2\ASC.Web.Test.dll
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\obj\Debug\netcoreapp2.2\ASC.Web.Test.csprojAssemblyReference.cache
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\obj\Debug\netcoreapp2.2\ASC.Web.Test.csproj.CoreCompileInputs.cache
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\obj\Debug\netcoreapp2.2\ASC.Web.Test.AssemblyInfoInputs.cache
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\obj\Debug\netcoreapp2.2\ASC.Web.Test.AssemblyInfo.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\bin\Debug\netcoreapp2.2\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\bin\Debug\netcoreapp2.2\ASC.Web.Test.pdb
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\obj\Debug\netcoreapp2.2\ASC.Web.Test.dll
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web.Test\obj\Debug\netcoreapp2.2\ASC.Web.Test.pdb

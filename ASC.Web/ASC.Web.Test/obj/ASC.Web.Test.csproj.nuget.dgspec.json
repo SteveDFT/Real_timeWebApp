@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web.Test\\ASC.Web.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web.Test\\ASC.Web.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web.Test\\ASC.Web.Test.csproj",
+        "projectName": "ASC.Web.Test",
+        "projectPath": "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web.Test\\ASC.Web.Test.csproj",
+        "packagesPath": "C:\\Users\\Steve Newman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Steve Newman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
+            "SpecFlow.xUnit": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
