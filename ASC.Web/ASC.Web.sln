@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASC.Web", "ASC.Web\ASC.Web.csproj", "{22C6D920-362B-457F-9AD8-5BCC5DF47264}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASC.Web.Test", "ASC.Web.Test\ASC.Web.Test.csproj", "{6EAE9531-DC94-427E-8E47-DD31D2043962}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASC.Web.Test", "ASC.Web.Test\ASC.Web.Test.csproj", "{6EAE9531-DC94-427E-8E47-DD31D2043962}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
