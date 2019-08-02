@@ -2,10 +2,77 @@
     Layout = "_MasterLayout";
 }
 
-<header class="secureLayout>
-    <nav class="top-nav white">
+<header class="secureLayout">
+    <nav class="white top-nav">
         <div class="nav-wrapper row valign-wrapper">
-            <h5><a class="page-title">Into the breech!</a></h5>
+            <a href="#" data-target="slide-out" class="" class="button-collapse top-nav full hide-on-large-only sidenav-trigger"><i class="material-icons black-text">menu</i></a>
+            <h5><a class="page-title black-text">Into the breech!</a></h5>
         </div>
     </nav>
+    <ul id="slide-out" class="sidenav fixed">
+        <li>
+            <div class="userView">
+                <div class="background">
+                    <a id="logo-container" href="#" class="brand-logo" style="margin-bottom:3px">
+                        <img class="responsive-img" src="~/images/iconfinder_hight_alert_army_man_military_2969365.svg" />
+                    </a>
+                    <a href="#"><span class="grey-text name">John Doe</span></a>
+                    <a href="#"><span class="grey-text email">Me@here.com</span></a>
+                </div>
+            </div>
+        </li>
+        <li><div class="divider"></div></li>
+        <li><a class="subheader">Into the breech!</a></li>
+        <li><a class="waves-effect" href="#">My armies</a></li>
+        <li><a class="waves-effect" href="#">View armies</a></li>
+        <li><a class="waves-effect" href="#">Find</a></li>
+        <li><a class="waves-effect" href="#">Mobs</a></li>
+        <li><div class="divider"></div></li>
+        <li><a class="subheader">Settings</a></li>
+        <li><a class="waves-effect" href="#">Profile</a></li>
+        <li><a class="waves-effect" href="#">Logout</a></li>
+    </ul>
 </header>
+<main class="secureLayout">
+    <div class="row margin-bottom-0pk">
+        <div class="col s12">
+            @RenderBody()
+        </div>
+    </div>
+</main>
+<footer class="page-footer white secureLayout">
+    <div class="container">
+        <div class="row">
+            <div class="col l6 s12">
+                <h5 class="black-text">About</h5>
+                <p class="grey-text">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua. Viverra aliquet eget sit amet tellus.
+                    Vitae turpis massa sed elementum tempus egestas sed sed. Tincidunt vitae semper quis lectus nulla
+                    at volutpat diam. Ut consequat semper viverra nam libero justo.
+                </p>
+            </div>
+            <div class="col l3 s12">
+                <h5 class="black-text">Services</h5>
+                <ul>
+                    <li><a class="black-text" href="#">Amry builder</a></li>
+                    <li><a class="black-text" href="#">Mobs</a></li>
+                    <li><a class="black-text" href="#">Find</a></li>
+                </ul>
+            </div>
+            <div class="col l3 s12">
+                <h5 class="black-text">Connect</h5>
+                <ul>
+                    <li><a class="black-text" href="#">Facebook</a></li>
+                    <li><a class="black-text" href="#">Twitter</a></li>
+                    <li><a class="black-text" href="#">YouTube</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-copyright row margin-bottom-0pk white">
+            <div class="col s12 grey-text">
+                Built by Guineapigged.co.uk
+            </div>
+        </div>
+    </div>
+</footer>

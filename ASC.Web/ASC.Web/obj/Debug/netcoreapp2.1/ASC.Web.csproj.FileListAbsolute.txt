@@ -15,25 +15,12 @@ C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\net
 C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\ASC.Web.TagHelpers.input.cache
 C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\ASC.Web.TagHelpers.output.cache
 C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\ASC.Web.RazorCoreGenerate.cache
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\ASC.Web.RazorTargetAssemblyInfo.cache
 C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\ASC.Web.RazorTargetAssemblyInfo.cs
 C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\ASC.Web.Views.pdb
 C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\ASC.Web.dll
 C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\ASC.Web.pdb
 C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\ASC.Web.csproj.CopyComplete
-C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MasterLayout.g.cshtml.cs
 C:\Users\Strok\Source\Repos\Real_timeWebApp\ASC.Web\ASC.Web\bin\Debug\netcoreapp2.1\ASC.Web.deps.json
 C:\Users\Strok\Source\Repos\Real_timeWebApp\ASC.Web\ASC.Web\bin\Debug\netcoreapp2.1\ASC.Web.runtimeconfig.json
 C:\Users\Strok\Source\Repos\Real_timeWebApp\ASC.Web\ASC.Web\bin\Debug\netcoreapp2.1\ASC.Web.runtimeconfig.dev.json
@@ -71,3 +58,22 @@ C:\Users\Strok\Source\Repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp
 C:\Users\Strok\Source\Repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\ASC.Web.pdb
 C:\Users\Strok\Source\Repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\ASC.Web.csproj.CopyComplete
 C:\Users\Strok\Source\Repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SecureLayout.g.cshtml.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\bin\Debug\netcoreapp2.1\appsettings.Production.json
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Dashboard.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MasterLayout.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SecureLayout.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
