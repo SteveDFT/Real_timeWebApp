@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj": {}
+    "C:\\Users\\Strok\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj": {
+    "C:\\Users\\Strok\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Strok\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj",
         "projectName": "ASC.Web",
-        "projectPath": "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj",
-        "packagesPath": "C:\\Users\\Steve Newman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steve Newman\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\obj\\",
+        "projectPath": "C:\\Users\\Strok\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj",
+        "packagesPath": "C:\\Users\\Strok\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Strok\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Steve Newman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Strok\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,12 +60,7 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
           "warn": true

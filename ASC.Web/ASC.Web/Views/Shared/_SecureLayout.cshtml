@@ -3,21 +3,25 @@
 }
 
 <header class="secureLayout">
-    <nav class="white top-nav">
-        <div class="nav-wrapper row valign-wrapper">
-            <a href="#" data-target="slide-out" class="" class="button-collapse top-nav full hide-on-large-only sidenav-trigger"><i class="material-icons black-text">menu</i></a>
+    <nav class="white top-nav secureLayout">
+        <div class="nav-wrapper row valign-wrapper" style="margin-left:1em">
+            <a href="#" data-target="slide-out" class="button-collapse top-nav full hide-on-large-only sidenav-trigger">
+                <i class="material-icons black-text">menu</i>
+            </a>
             <h5><a class="page-title black-text">Into the breech!</a></h5>
         </div>
     </nav>
-    <ul id="slide-out" class="sidenav fixed">
+    <ul id="slide-out" class="sidenav">
         <li>
             <div class="userView">
                 <div class="background">
                     <a id="logo-container" href="#" class="brand-logo" style="margin-bottom:3px">
                         <img class="responsive-img" src="~/images/iconfinder_hight_alert_army_man_military_2969365.svg" />
                     </a>
-                    <a href="#"><span class="grey-text name">John Doe</span></a>
-                    <a href="#"><span class="grey-text email">Me@here.com</span></a>
+                    <ul>
+                        <li><span class="grey-text name" style="margin-left:12%">John Doe</span></li>
+                        <li><span class="grey-text email" style="margin-left:12%">Me@here.com</span></li>
+                    </ul>
                 </div>
             </div>
         </li>
@@ -41,7 +45,8 @@
     </div>
 </main>
 <footer class="page-footer white secureLayout">
-    <div class="container">
+    <div class="divider"></div>
+    <div class="container ">
         <div class="row">
             <div class="col l6 s12">
                 <h5 class="black-text">About</h5>
