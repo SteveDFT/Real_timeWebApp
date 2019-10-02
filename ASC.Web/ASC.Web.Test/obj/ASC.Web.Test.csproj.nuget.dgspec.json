@@ -43,7 +43,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.2.0, )"
+              "version": "[16.3.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -55,23 +55,17 @@
               "target": "Package",
               "version": "[3.0.225, )"
             },
+            "SpecFlow.MsTest": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
             "SpecFlow.Tools.MsBuild.Generation": {
               "target": "Package",
               "version": "[3.0.225, )"
             },
-            "SpecFlow.xUnit": {
+            "SpecRun.SpecFlow": {
               "target": "Package",
-              "version": "[3.0.225, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.4.1, )"
-            },
-            "xunit.runner.visualstudio": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.4.1, )"
+              "version": "[3.0.391, )"
             }
           },
           "imports": [

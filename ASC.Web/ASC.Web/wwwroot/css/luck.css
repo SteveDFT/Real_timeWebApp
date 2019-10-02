@@ -1,0 +1,217 @@
+﻿.TbBlihOg_0 {
+    stroke-dasharray: 411 413;
+    stroke-dashoffset: 412;
+}
+
+.start .TbBlihOg_0 {
+    animation: TbBlihOg_draw 77ms linear 0ms forwards;
+}
+
+.TbBlihOg_1 {
+    stroke-dasharray: 820 822;
+    stroke-dashoffset: 821;
+}
+
+.start .TbBlihOg_1 {
+    animation: TbBlihOg_draw 153ms linear 77ms forwards;
+}
+
+.TbBlihOg_2 {
+    stroke-dasharray: 546 548;
+    stroke-dashoffset: 547;
+}
+
+.start .TbBlihOg_2 {
+    animation: TbBlihOg_draw 102ms linear 231ms forwards;
+}
+
+.TbBlihOg_3 {
+    stroke-dasharray: 1092 1094;
+    stroke-dashoffset: 1093;
+}
+
+.start .TbBlihOg_3 {
+    animation: TbBlihOg_draw 204ms linear 333ms forwards;
+}
+
+.TbBlihOg_4 {
+    stroke-dasharray: 546 548;
+    stroke-dashoffset: 547;
+}
+
+.start .TbBlihOg_4 {
+    animation: TbBlihOg_draw 102ms linear 538ms forwards;
+}
+
+.TbBlihOg_5 {
+    stroke-dasharray: 1092 1094;
+    stroke-dashoffset: 1093;
+}
+
+.start .TbBlihOg_5 {
+    animation: TbBlihOg_draw 204ms linear 640ms forwards;
+}
+
+.TbBlihOg_6 {
+    stroke-dasharray: 546 548;
+    stroke-dashoffset: 547;
+}
+
+.start .TbBlihOg_6 {
+    animation: TbBlihOg_draw 102ms linear 845ms forwards;
+}
+
+.TbBlihOg_7 {
+    stroke-dasharray: 1092 1094;
+    stroke-dashoffset: 1093;
+}
+
+.start .TbBlihOg_7 {
+    animation: TbBlihOg_draw 204ms linear 948ms forwards;
+}
+
+.TbBlihOg_8 {
+    stroke-dasharray: 426 428;
+    stroke-dashoffset: 427;
+}
+
+.start .TbBlihOg_8 {
+    animation: TbBlihOg_draw 80ms linear 1152ms forwards;
+}
+
+.TbBlihOg_9 {
+    stroke-dasharray: 852 854;
+    stroke-dashoffset: 853;
+}
+
+.start .TbBlihOg_9 {
+    animation: TbBlihOg_draw 159ms linear 1232ms forwards;
+}
+
+.TbBlihOg_10 {
+    stroke-dasharray: 406 408;
+    stroke-dashoffset: 407;
+}
+
+.start .TbBlihOg_10 {
+    animation: TbBlihOg_draw 76ms linear 1392ms forwards;
+}
+
+.TbBlihOg_11 {
+    stroke-dasharray: 811 813;
+    stroke-dashoffset: 812;
+}
+
+.start .TbBlihOg_11 {
+    animation: TbBlihOg_draw 152ms linear 1468ms forwards;
+}
+
+.TbBlihOg_12 {
+    stroke-dasharray: 406 408;
+    stroke-dashoffset: 407;
+}
+
+.start .TbBlihOg_12 {
+    animation: TbBlihOg_draw 76ms linear 1621ms forwards;
+}
+
+.TbBlihOg_13 {
+    stroke-dasharray: 811 813;
+    stroke-dashoffset: 812;
+}
+
+.start .TbBlihOg_13 {
+    animation: TbBlihOg_draw 152ms linear 1697ms forwards;
+}
+
+.TbBlihOg_14 {
+    stroke-dasharray: 568 570;
+    stroke-dashoffset: 569;
+}
+
+.start .TbBlihOg_14 {
+    animation: TbBlihOg_draw 106ms linear 1849ms forwards;
+}
+
+.TbBlihOg_15 {
+    stroke-dasharray: 1136 1138;
+    stroke-dashoffset: 1137;
+}
+
+.start .TbBlihOg_15 {
+    animation: TbBlihOg_draw 213ms linear 1956ms forwards;
+}
+
+.TbBlihOg_16 {
+    stroke-dasharray: 568 570;
+    stroke-dashoffset: 569;
+}
+
+.start .TbBlihOg_16 {
+    animation: TbBlihOg_draw 106ms linear 2169ms forwards;
+}
+
+.TbBlihOg_17 {
+    stroke-dasharray: 1136 1138;
+    stroke-dashoffset: 1137;
+}
+
+.start .TbBlihOg_17 {
+    animation: TbBlihOg_draw 213ms linear 2275ms forwards;
+}
+
+.TbBlihOg_18 {
+    stroke-dasharray: 449 451;
+    stroke-dashoffset: 450;
+}
+
+.start .TbBlihOg_18 {
+    animation: TbBlihOg_draw 84ms linear 2488ms forwards;
+}
+
+.TbBlihOg_19 {
+    stroke-dasharray: 898 900;
+    stroke-dashoffset: 899;
+}
+
+.start .TbBlihOg_19 {
+    animation: TbBlihOg_draw 168ms linear 2573ms forwards;
+}
+
+.TbBlihOg_20 {
+    stroke-dasharray: 459 461;
+    stroke-dashoffset: 460;
+}
+
+.start .TbBlihOg_20 {
+    animation: TbBlihOg_draw 86ms linear 2741ms forwards;
+}
+
+.TbBlihOg_21 {
+    stroke-dasharray: 918 920;
+    stroke-dashoffset: 919;
+}
+
+.start .TbBlihOg_21 {
+    animation: TbBlihOg_draw 172ms linear 2827ms forwards;
+}
+
+@keyframes TbBlihOg_draw {
+    100% {
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes TbBlihOg_fade {
+    0% {
+        stroke-opacity: 1;
+    }
+
+    94.44444444444444% {
+        stroke-opacity: 1;
+    }
+
+    100% {
+        stroke-opacity: 0;
+    }
+}

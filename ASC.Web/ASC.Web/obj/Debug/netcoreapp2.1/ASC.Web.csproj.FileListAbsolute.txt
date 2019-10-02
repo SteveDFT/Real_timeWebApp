@@ -78,3 +78,6 @@ C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\net
 C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Steve Newman\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\Strok\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Dashboard.g.cshtml.cs
+C:\Users\Strok\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Talk\Views\Talk\Index.g.cshtml.cs
+C:\Users\Strok\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TalkLayout.g.cshtml.cs
+C:\Users\Strok\source\repos\Real_timeWebApp\ASC.Web\ASC.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Talk\Views\Talk\School.g.cshtml.cs

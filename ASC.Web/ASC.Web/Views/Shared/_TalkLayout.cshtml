@@ -1,0 +1,136 @@
+﻿@{ 
+    Layout = "_MasterLayout";
+}
+
+    <header class="secureLayout">
+        <nav class="white top-nav">
+            <div class="nav-wrapper row valign-wrapper">
+                <div class="col s12 valign-wrapper">
+                    <h5 class="center"><a class="page-title black-text">IT tallk</a></h5>
+
+                </div>
+                <a href="#" data-target="slide-out" class="sidenav-trigger right-aligned"><i class="material-icons black-text top-nav full hide-on-large-only">menu</i></a>
+            </div>
+        </nav>
+        <ul id="slide-out" class="side-nav fixed">
+            <li>
+                <div class="userView">
+                    <div class="background blue-grey lighten-1"></div>
+                    <a href="#!user"><img class="circle" /></a>
+                    <a href="#!name"><span class="white-text name">name</span></a>
+                    <a href="#!email"><span class="white-text email">me@here.com</span></a>
+                </div>
+            </li>
+            <li>
+                <a asp-area="Talk" asp-controller="Talk" asp-action="School" class="collapsible-header">
+                    <i class="material-icons">dashboard</i>School
+                </a>
+            </li>
+            <li>
+                <ul class="collapsible collapsible-accordion">
+                    <li>
+                        <a class="collapsible-header">
+                            User admin
+                            <i class="material-icons">Sup account</i>
+                        </a>
+                        <div class="collapsible-body">
+                            <ul>
+                                <li>
+                                    <a href="#!">
+                                        Customers
+                                        <i class="material-icons">account_box</i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#!">
+                                        Provision user
+                                        <i class="material-icons">person_add</i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#!">
+                                        Deactivate User
+                                        <i class="material-icons">remove_circle</i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a class="collapsible-header" href="#!">
+                    <i class="material-icons">perm_data_setting</i>
+                    Service Request
+                </a>
+            </li>
+            <li>
+                <a class="collapsible-header" href="#!">
+                    <i class="material-icons">message</i>
+                    Service Notification
+                </a>
+            </li>
+            <li>
+                <a class="collapsible-header" href="#!">
+                    <i class="material-icons">inbox</i>
+                    Promotions
+                </a>
+            </li>
+            <li>
+                <a class="collapsible-header" href="#!">
+                    <i class="material-icons">settings</i>
+                    Settings
+                </a>
+            </li>
+            <li>
+                <a class="collapsible-header" href="#!">
+                    <i class="material-icons">exit_to_app</i>
+                    Logout
+                </a>
+            </li>
+        </ul>
+    </header>
+<main class="secureLayout">
+    <div class="row margin-bottom-0pk">
+        <div class="col s12">
+            @RenderBody()
+        </div>
+    </div>
+</main>
+<footer class="page-footer white secureLayout">
+    <div class="divider"></div>
+    <div class="container ">
+        <div class="row">
+            <div class="col l6 s12">
+                <h5 class="black-text">About</h5>
+                <p class="grey-text">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua. Viverra aliquet eget sit amet tellus.
+                    Vitae turpis massa sed elementum tempus egestas sed sed. Tincidunt vitae semper quis lectus nulla
+                    at volutpat diam. Ut consequat semper viverra nam libero justo.
+                </p>
+            </div>
+            <div class="col l3 s12">
+                <h5 class="black-text">Services</h5>
+                <ul>
+                    <li><a class="black-text" href="#">Amry builder</a></li>
+                    <li><a class="black-text" href="#">Mobs</a></li>
+                    <li><a class="black-text" href="#">Find</a></li>
+                </ul>
+            </div>
+            <div class="col l3 s12">
+                <h5 class="black-text">Connect</h5>
+                <ul>
+                    <li><a class="black-text" href="#">Facebook</a></li>
+                    <li><a class="black-text" href="#">Twitter</a></li>
+                    <li><a class="black-text" href="#">YouTube</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-copyright row margin-bottom-0pk white">
+            <div class="col s12 grey-text">
+                Built by Guineapigged.co.uk
+            </div>
+        </div>
+    </div>
+</footer>

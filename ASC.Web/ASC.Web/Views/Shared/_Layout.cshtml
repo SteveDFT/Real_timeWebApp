@@ -5,15 +5,15 @@
         <nav class="white" role="navigation">
             <div class="nav-wrapper container">
                 <a id="logo-container" href="#" class="brand-logo">
-                    <img class="responsive-img" src="~/images/iconfinder_hight_alert_army_man_military_2969365.svg" />
+                    <a href="#" data-target="slide-out" class="sidenav-trigger material-icons black-text top-nav full"><i class="material-icons black-text">menu</i></a>
+                    @*<img class="responsive-img" src="~/images/iconfinder_hight_alert_army_man_military_2969365.svg" />*@
                 </a>
-                <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons black-text">menu</i></a>
                 <ul class="right hide-on-med-and-down">
                     <li><a href="#">Login</a></li>
                 </ul>
             </div>
         </nav>
-        <ul id="slide-out" class="sidenav">
+        <ul id="slide-out" class="side-nav">
             <li>
                 
                 <div class="user-view">
@@ -39,7 +39,7 @@
                         <h5 class="subheader col s12 light">Your virtual display case</h5>
                     </div>
                     <div class="row center">
-                        <a href="#" id="get-started" class="btn-large waves-effect waves-light black lighten-1">Get started</a>
+                        <a asp-area="Talk" asp-controller="Talk" asp-action="Index" id="get-started" class="btn-large waves-effect waves-light black lighten-1">Get started</a>
                     </div>
                     <br />
                 </div>
