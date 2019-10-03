@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <Folder Include="Areas\Talk\Models\" />
+    <Folder Include="wwwroot\images\School\" />
   </ItemGroup>
 
 </Project>

@@ -21,5 +21,10 @@ namespace ASC.Web.Areas.Talk.Controllers
         {
             return View();
         }
+
+        public IActionResult Work()
+        {
+            return View();
+        }
     }
 }
