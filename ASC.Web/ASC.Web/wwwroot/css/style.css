@@ -5,7 +5,16 @@
  *
  * Made By MaterializeCSS.com
  */
+@media only screen and (max-width: 600px) {
+    .tap-target, .tap-target-wrapper {
+        width: 600px;
+        height: 600px;
 
+    }
+    .tap-target-top-line {
+        margin-left: 30px;
+    }
+}
 nav ul a,
 nav .brand-logo {
     color: #444;

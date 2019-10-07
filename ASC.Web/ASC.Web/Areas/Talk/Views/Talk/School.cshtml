@@ -9,44 +9,59 @@
 }
     <div class="container">
         <h1>School</h1>
-
+        <ul class="collapsible">
+            <li>
+                <div class="collapsible-header"><i class="material-icons">filter_drama</i>Me in year 7</div>
+                <div class="collapsible-body">
+                    <div class="row">
+                        <div class="col-xs-3 col s12">
+                            <div class="card-content">
+                                <div class="card-image">
+                                    <img class="materialboxed" src="~/images/School/me.jpg" style="max-height:450px; max-width: 300px" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
         <div class="slider">
             <ul class="slides">
                 <li>
-                    <img src="~/images/hizir-kaya-0q90Mumo-xE-unsplash.jpg" />
-                    <div class="caption center-align">
-                        <h3>Learning wasn't my thing</h3>
-                        <h5 class="light grey-text text-lighten-3">I had to work hard to get C's</h5>
-                    </div>
+                    <img src="~/images/School/schoolPhoto.jpg" />
                 </li>
                 <li>
-                    <img src="~/images/mostafa-meraji-Hu3NNge_kj4-unsplash.jpg" />
-                    <div class="caption left-align">
-                        <h3>No idea </h3>
-                        <h5 class="light grey-text text-lighten-3">What I wanted to do </h5>
-                    </div>
+                    <img src="~/images/School/science.jpg" />
                 </li>
                 <li>
-                    <img src="~/images/mostafa-meraji-KFcVG3c2J3g-unsplash.jpg" />
-                    <div class="caption right-align">
-                        <h3>Right Aligned Caption</h3>
-                        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-                    </div>
-                </li>
-                <li>
-                    <img src="~/images/satyam-bhuyan-eYJ5yxMJuB4-unsplash (1).jpg" />
-                    <div class="caption center-align">
-                        <h3>This is our big Tagline!</h3>
-                        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-                    </div>
+                    <img src="~/images/School/tideway.jpg" />
                 </li>
             </ul>
         </div>
-
+        <div class="fixed-action-btn direction-top active" style="bottom: 45px; right: 24px;">
+            <a id="menu" class="btn btn-floating btn-sm cyan ">
+                <i class="material-icons">add</i>
+            </a>
+        </div>
+        <div class="tap-target-wrapper" style="right: -248px; bottom: -227px; position: fixed;">
+            <div class="tap-target cyan" data-target="menu">
+                <div class="tap-target-content white-text" style="width: 356px; height: 300px; top: 0px; right: 0px; bottom: 0px; left: 0px; padding: 56px; vertical-align: bottom;">
+                    <h5 class="tap-target-top-line">No idea What I wanted to do!</h5>
+                    <p>Wasn't confident academically<br /><h5>Worked hard to get C's</h5></p>
+                
+                </div>
+            </div>
+        </div>
     </div>
 <script>
-   
-  $(document).ready(function(){
-    $('.slider').slider();
-  });
+
+    $(document).ready(function () {
+        $('.slider').slider();
+        $('.tap-target').tapTarget();
+        $('.collapsible').collapsible();
+        $('.materialboxed').materialbox();
+    });
+    $('#menu').click(function () {
+        $('.tap-target').tapTarget('open');
+    });
 </script>
