@@ -85,7 +85,7 @@ using ASC.Web.Models;
                 ");
             EndContext();
             BeginContext(1051, 177, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "95191d40bf4b4c5da7e4f69ecc72fc29", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b7b13475232b4ef9a270807ba175ad45", async() => {
                 BeginContext(1139, 85, true);
                 WriteLiteral("\r\n                    <i class=\"material-icons\">dashboard</i>School\r\n                ");
                 EndContext();
@@ -112,7 +112,7 @@ using ASC.Web.Models;
             WriteLiteral("\r\n            </li>\r\n            <li>\r\n                <ul class=\"collapsible collapsible-accordion\">\r\n                    <li>\r\n                        ");
             EndContext();
             BeginContext(1381, 221, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8749ffa56a544d5db648b47ee731babc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b7618ac68090466a85c14502a8b0ef56", async() => {
                 BeginContext(1467, 131, true);
                 WriteLiteral("\r\n                            Work\r\n                            <i class=\"material-icons\">Sup account</i>\r\n                        ");
                 EndContext();
