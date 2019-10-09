@@ -11798,11 +11798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Strok\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Strok\\source\\repos\\talk\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj",
       "projectName": "ASC.Web",
-      "projectPath": "C:\\Users\\Strok\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj",
+      "projectPath": "C:\\Users\\Strok\\source\\repos\\talk\\Real_timeWebApp\\ASC.Web\\ASC.Web\\ASC.Web.csproj",
       "packagesPath": "C:\\Users\\Strok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Strok\\source\\repos\\Real_timeWebApp\\ASC.Web\\ASC.Web\\obj\\",
+      "outputPath": "C:\\Users\\Strok\\source\\repos\\talk\\Real_timeWebApp\\ASC.Web\\ASC.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

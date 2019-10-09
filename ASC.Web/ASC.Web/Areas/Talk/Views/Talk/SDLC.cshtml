@@ -12,7 +12,7 @@
 @*https://dft-ames-portfreight-test.appspot.com*@
     <div class="container">
         <h1>How does a software project work ?</h1>
-        <a onclick="M.toast()" class="btn btn">Key terms</a>
+        <a onclick="calltoast()" class="btn btn">Key terms</a>
         <ul class="collapsible">
             <li>
                 <div class="collapsible-header"><i class="material-icons">filter_drama</i>Step 1</div>
@@ -41,12 +41,28 @@
         </ul>
     </div>
 <script>
+
     $(document).ready(function ()
     {
         $('.collapsible').collapsible();
     });
 
-    M.toast(function () {
-        var terms = ["Iteration", "MVP", "Agile"]
-    })
+    function calltoast()
+    {
+        var terms = ["Iteration", "MVP", "Agile", "Product owner", "KanBan", "Business analysis", "User research"];
+
+        //terms.forEach(displaytoast);
+
+        for (var i = 0; i < terms.length; i++)
+        {
+            displaytoast(terms[i]);
+        }
+        
+    }
+
+    function displaytoast(term)
+    {
+        M.toast({ html: term});
+    }
+
 </script>
