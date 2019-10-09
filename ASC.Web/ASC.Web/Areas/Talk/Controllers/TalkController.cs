@@ -26,5 +26,15 @@ namespace ASC.Web.Areas.Talk.Controllers
         {
             return View();
         }
+
+        public IActionResult Pf()
+        {
+            return View();
+        }
+
+        public IActionResult SDLC()
+        {
+            return View();
+        }
     }
 }

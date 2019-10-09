@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@{
+    Layout = "_TalkLayout";
+}
+
+
+@*https://dft-ames-portfreight-test.appspot.com*@
+    <div class="container">
+        <h1>How does a software project work ?</h1>
+        <a onclick="M.toast()" class="btn btn">Key terms</a>
+        <ul class="collapsible">
+            <li>
+                <div class="collapsible-header"><i class="material-icons">filter_drama</i>Step 1</div>
+                <div class="collapsible-body"><span>Someone has something they want todo differently.</span></div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">place</i>Step 2</div>
+                <div class="collapsible-body"><span>We analyse what they do and what they want to acheive.</span></div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">whatshot</i>Step 3</div>
+                <div class="collapsible-body"><span>We present solutions.</span></div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">accessibility</i>Step 4</div>
+                <div class="collapsible-body"><span>We build a soliution.</span></div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">add_shopping_cart</i>Step 5</div>
+                <div class="collapsible-body"><span>Check we've got it right.</span></div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">airplay</i>Step 6</div>
+                <div class="collapsible-body"><span>We start the process again.</span></div>
+            </li>
+        </ul>
+    </div>
+<script>
+    $(document).ready(function ()
+    {
+        $('.collapsible').collapsible();
+    });
+
+    M.toast(function () {
+        var terms = ["Iteration", "MVP", "Agile"]
+    })
+</script>
